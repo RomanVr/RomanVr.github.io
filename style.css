@@ -11,6 +11,7 @@ body {
 /* BEGIN (write your solution here) */
 p {
     margin-bottom: 12px;
+    text-indent: 25px; /* Отступ первой строки в пикселах */
 }
 h1 {
     font-size: 36px;
